@@ -14,7 +14,7 @@
 
 #
 
-<p align="center">Meu nome é Júlio Vinícius e sou estudante de Análise e Desenvolvimento de Sistemas pela Uninassau em Pernambuco, com base em Python e experiência em frameworks como Flask. Tenho também domínio de tecnologias de front-end (HTML, CSS e JavaScript), permitindo-me projetar e implementar aplicações web completas de alto desempenho.
+<p align="center">Meu nome é Júlio Vinícius e sou estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU, em Pernambuco, com foco em desenvolvimento Back End. Possuo base sólida em Java e Python, com experiência em frameworks como Flask, além de conhecimentos em HTML, CSS e JavaScript, que auxiliam na integração entre o back end e o front end para a construção de aplicações web completas e bem estruturadas.
 
   
 #
@@ -31,11 +31,11 @@
 
 <div style="textalign: center;" align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25" alt="python logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="html5 logo"  />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" alt="JavaScript logo"  />
     <img width="8" />
@@ -44,9 +44,8 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>*GitHub Stats*</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=julioxd-v7&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=E0FFFF&text_color=FFF&border_radius=3&border_color=E0FFFF&icon_color=E0FFFF&theme=jolly" alt="GitHub stats">
+  
+  
 <br>
   <a href="https://github.com/julioxd-v7/github-readme-stats">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioxd-v7&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages"/>
