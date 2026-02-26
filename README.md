@@ -1,6 +1,6 @@
 # 👨‍💻 Júlio Vinícius
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back End`**
 ---
 
 <div align="center">
