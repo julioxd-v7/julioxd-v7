@@ -1,6 +1,6 @@
 # 👨‍💻 Júlio Vinícius
 
-**`Desenvolvedor Back End`**
+**`Desenvolvedor`**
 ---
 
 <div align="center">
