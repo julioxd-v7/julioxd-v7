@@ -23,7 +23,7 @@
 
 <h3 align="left">Redes ~</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color:FFF)](https://www.linkedin.com/in/júlio-vinícius-de-almeida-uchôa-correia-57baa533b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color:FFF)](https://www.linkedin.com/in/j%C3%BAlio-uch%C3%B4a-57baa533b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E0FFFF&color:FFF)](https://www.instagram.com/julioviini/)
 
 
